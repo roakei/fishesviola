@@ -63,7 +63,6 @@ body{
   font-size:1.1rem;
 }
 .logo .decor2{color:#FF8AA1}
-
 .nav-list{display:flex;gap:0.6rem;list-style:none;margin:0;padding:0}
 .nav-list a{
   text-decoration:none;
@@ -80,7 +79,6 @@ body{
   background: rgba(255,255,255,0.6);
 }
 
-/* Hero */
 .hero{
   display:grid;
   grid-template-columns: 1fr 420px;
